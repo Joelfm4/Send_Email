@@ -45,4 +45,4 @@ PASSWORD = 'your_password'
 - This script is designed for educational and demonstration purposes. Use it responsibly and respect the acceptable use policies of email services.
 
 
-[What will the recipient receive](test.png)
+![image](test.png)
